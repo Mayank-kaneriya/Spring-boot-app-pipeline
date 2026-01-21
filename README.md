@@ -145,15 +145,6 @@ Each build is tagged uniquely to maintain traceability.
 
 ---
 
-## 📸 Screenshots (Optional)
-
-* Jenkins Pipeline Dashboard
-* SonarQube Quality Gate
-* Argo CD Sync Status
-* Kubernetes Pods & Services
-
----
-
 ## 👨‍💻 Author
 
 **Mayank Kaneriya**
